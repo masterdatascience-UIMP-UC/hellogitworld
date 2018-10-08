@@ -14,5 +14,8 @@ We can, as an example effort, even modify this README and change it as if it wer
 
 This demo also includes an image with changes on a branch for examination of image diff on GitHub.
 Nueva linea
+<<<<<<< HEAD
 Linea que espero anadir
 Linea que no esparaba anadir
+=======
+>>>>>>> 81f369b5fd3a7f6f782d30d1571af46bcfe40b28
