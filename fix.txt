@@ -1,4 +1,0 @@
-Linea 1 chapa terrible
-Linea 2 sigue siendo una chapa terrrible
-Fix #1 added -- Ahora puedes eliminar esta linea chilling
-Fix #2: Arreglo muy importante ya hecho -- Puedes fumar esta linea tranquilamente
