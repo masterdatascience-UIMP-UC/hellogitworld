@@ -13,3 +13,17 @@ As a quick reminder, this came from one of three locations in either SSH, Git, o
 We can, as an example effort, even modify this README and change it as if it were source code for the purposes of the class.
 
 This demo also includes an image with changes on a branch for examination of image diff on GitHub.
+
+
+Contributing to the Project
+---------------------------
+
+To ensure a smooth workflow, please follow these steps when proposing updates:
+
+1. Branch out: Create a dedicated feature branch from main rather than working directly on the main branch.
+2. Inspect: Implement your changes and review them locally using git diff to double-check your work.
+3. Commit: Stage the modified files and record a clear, descriptive commit message.
+4. Push: Upload your feature branch to your personal fork.
+5. Review: Open a Pull Request targeting the upstream repository for review and integration.
+
+Contributor: Laura García Casado — Master's student in Data Science at the University of Cantabria (UC).
