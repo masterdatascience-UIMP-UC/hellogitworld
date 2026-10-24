@@ -13,3 +13,14 @@ As a quick reminder, this came from one of three locations in either SSH, Git, o
 We can, as an example effort, even modify this README and change it as if it were source code for the purposes of the class.
 
 This demo also includes an image with changes on a branch for examination of image diff on GitHub.
+
+
+Contributing through GitHub
+
+To contribute to this project:
+1. Fork the original repository on GitHub.
+2. Clone your fork to your local computer.
+3. Create a new branch for your changes.
+4. Make your changes and commit them.
+5. Push your branch to your fork on GitHub.
+6. Open a Pull Request to propose your changes to the original repository.
